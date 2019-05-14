@@ -1,3 +1,3 @@
-# carenga
+# Carenga
 
 Repositório do projeto Carenga
