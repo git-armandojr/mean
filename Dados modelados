@@ -1,0 +1,49 @@
+DOCUMENTO DE MODELAGEM DE DADOS
+
+{
+    "_id": "foaishf",
+    "firstName": "Igor",
+    "lastName": "Martins",
+    "email": "igor@gmail.com",
+    "period": "noite",
+    "type": "motorista",
+    "gender": "F",
+    "addresses": [
+        {
+            "type": "saída",
+            "street": "rua dos Bobos",
+            "number": 0,
+            "neighborhood": "bairro dos Bobos",
+            "city": "Diadema",
+            "position": {
+                "lat": 0,
+                "lng": 0
+            }
+        }
+    ],
+    "ride": [
+        {
+            "_id": "saofiasiogh",
+            "requester": "dsaflkfjasdklfjsd",
+            "firstName": "Laion",
+            "lastName":"",
+            "type": "recebida",
+            "description": "salve, dá carona caray",
+            "period": "noite",
+            "entrada": false,
+            "state": "Aceito",
+            "solicitationDate": "2019-03-22T01:23:45.287Z",
+            "address": {
+                "type": "saída",
+                "street": "rua do laion",
+                "number": 0,
+                "neighborhood": "bairro do laion",
+                "city": "Santo André",
+                "position": {
+                    "lat": 0,
+                    "lng": 0
+                }
+            }
+        }
+    ]
+}
