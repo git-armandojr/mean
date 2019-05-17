@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/mean-stack-registration-login-example",
+    "secret": "2F343FD492A7958BA366D8DF7B5D2C26"
+}
